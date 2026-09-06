@@ -1,2 +1,2 @@
-# luxe-3
-Luxe 3
+# Luxe-2
+Luxe 2
